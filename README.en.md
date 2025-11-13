@@ -1,8 +1,13 @@
 <div align="center">
 
-# 🎮 KimchiRun 2025
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=KimchiRun%202025&fontSize=60&fontColor=fff&animation=twinkling&desc=2D%20Endless%20Runner%20Game&descAlign=50&descAlignY=65&descSize=25)
 
 **Technical Excellence Meets Game Development Best Practices**
+
+![Unity](https://img.shields.io/badge/Unity-6.0-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey?style=for-the-badge)
 
 Language: [English](README.en.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
 
@@ -237,14 +242,4 @@ This project goes beyond simply following a tutorial. The goal is to **design an
 ## 📄 License
 
 This project is developed for **educational purposes** as part of a learning journey. All code and documentation are intended for educational use and personal development.
-
----
-
-<div align="center">
-
-**Built with ❤️ for Game Developers**
-
-*Refactored with 30+ Years of Software Engineering Experience*
-
-</div>
 

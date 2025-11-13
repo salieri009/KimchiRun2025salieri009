@@ -1,8 +1,13 @@
 <div align="center">
 
-# 🎮 KimchiRun 2025
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=KimchiRun%202025&fontSize=60&fontColor=fff&animation=twinkling&desc=2D%20エンドレスランナーゲーム&descAlign=50&descAlignY=65&descSize=25)
 
 **技術的卓越性とゲーム開発のベストプラクティスの出会い**
+
+![Unity](https://img.shields.io/badge/Unity-6.0-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey?style=for-the-badge)
 
 Language: [English](README.en.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
 
@@ -237,14 +242,4 @@ KimchiRun2025Salieri009/
 ## 📄 ライセンス
 
 このプロジェクトは、学習の旅の一部として**教育目的**で開発されています。すべてのコードとドキュメントは、教育的使用と個人開発を目的としています。
-
----
-
-<div align="center">
-
-**ゲーム開発者のために ❤️で構築**
-
-*30年以上のソフトウェアエンジニアリング経験でリファクタリング*
-
-</div>
 
